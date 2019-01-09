@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\bin\Debug\Semordnilap.exe.config
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\bin\Debug\Semordnilap.exe
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\bin\Debug\Semordnilap.pdb
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\obj\Debug\Semordnilap.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\obj\Debug\Semordnilap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\obj\Debug\Semordnilap.exe
+C:\Users\Administrator\source\repos\Semordnilap\Semordnilap\obj\Debug\Semordnilap.pdb
